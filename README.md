@@ -71,7 +71,7 @@ Our project needed a form of Version Control in order to have a central reposito
 # Perforce
 
 Here's a screenshot of the Perforce commit log after we switched from github.
-![](pics/perforce.png)
+![](pics/perforce-1.png)
 ________________
 
 # Compiling
